@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics_211_bst.jpg
+image: images/ics_211_bst.png
 title: ICS 211 - Bookstore
 permalink: projects/ICS211_Bookstore
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Bookstore that implements a binary search tree
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/ics_211_bst.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/ics_211_bst.png">
 
 This project was assigned to our ICS 211 class in the Spring of 2017.  We were tasked with programming the interface for the clerks at a bookstore.  The user needed to be able to stock up on books for the store, sell books, and list all the books in stock.  When the user created a book, they were prompted to enter the title of the book and the ISBN.  After this was successfully completed, the node containing a book object would be added to a binary search tree.
 
