@@ -5,7 +5,7 @@ image: images/ics_111_game.png
 title: ICS 111 - Birdo Does a Fly
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 
+date: 2016-11-20
 labels:
   - Java
   - Game
