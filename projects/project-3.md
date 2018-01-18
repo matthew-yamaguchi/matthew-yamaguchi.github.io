@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/ics_211_bst.png
+title: ICS 211 - Bookstore
+permalink: projects/ICS211_Bookstore
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-04-06
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Data structure
+summary: Bookstore that implements a binary search tree
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ics_211_bst.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
