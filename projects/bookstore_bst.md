@@ -8,7 +8,8 @@ permalink: projects/ICS211_Bookstore
 date: 2017-04-06
 labels:
   - Java
-  - Data structure
+  - Data structures
+  - Binary search tree
 summary: Bookstore that implements a binary search tree
 ---
 
