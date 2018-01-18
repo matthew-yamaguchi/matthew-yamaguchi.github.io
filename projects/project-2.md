@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ics_111_game.png
 title: ICS 111 - Birdo Does a Fly
-permalink: projects/vacay
+permalink: projects/Birdo_Does_A_Fly
 # All dates must be YYYY-MM-DD format!
 date: 2016-11-20
 labels:
