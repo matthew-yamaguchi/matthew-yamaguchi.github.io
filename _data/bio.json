@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Matthew Yamaguchi",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://matthew-yamaguchi.github.io/images/techhui_pic.png",
+    "email": "my26@hawaii.edu",
+    "phone": "808-741-3970",
+    "website": "https://matthew-yamaguchi.github.io",
+    "summary": "I am student currently studying for my BS in Computer Science at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96797",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "matthew-yamaguchi",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Matthew Yamaguchi",
+        "url": "http://linkedin.com/in/matthew-yamaguchi-7bb897156/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software programming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "game design",
       "keywords": [
       ]
     }
