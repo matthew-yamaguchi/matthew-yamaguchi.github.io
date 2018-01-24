@@ -75,7 +75,7 @@
       ]
     }
   ],
-  "work": [
+  <!---"work": [
     {
       "company": "",
       "position": "",
@@ -137,7 +137,7 @@
       "awarder": "",
       "summary": ""
     }
-  ],
+  ], --->
   "references": [
     {
       "name": "Available upon request",
