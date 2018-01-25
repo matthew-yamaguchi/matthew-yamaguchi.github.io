@@ -4,8 +4,8 @@ type: essay
 title: if(smartQuestionAsked() == true) return goodAnswer
 date: 2018-1-25
 labels:
-  -Questions
-  -Communication
+  - Questions
+  - Communication
 ---
 
 ##Header placeholder##
