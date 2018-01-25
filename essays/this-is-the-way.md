@@ -4,8 +4,8 @@ type: essay
 title: This is the Way
 date: 2018-1-18
 labels:
-  -Software Engineering
-  -Learning
+  - Software Engineering
+  - Learning
 ---
 
 
