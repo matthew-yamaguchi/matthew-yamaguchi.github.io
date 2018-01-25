@@ -31,6 +31,7 @@ We know a few traits that can make a question dumb, so how do we change that sam
 The first person might say something along the lines of:
 * "Hey, did you do the homework last night? Can I see your answers?"
 * "Can I copy your homework?" 
+
 The second person will say:
 * "Hey, I was having troubles with problem #XX last night.  I spent a few hours but I didn't get anywhere, could you help me?"
 * "Could you explain how to do #XX?  I got up to here on the problem but then I got stuck."
