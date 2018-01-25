@@ -22,7 +22,7 @@ What makes this a bad question?  First of all, this is not a question, but rathe
 ### And here are the responses to this post: ###
 ![Responses to the bad question](/images/bad_answer_SO.png)
 
-As expected, many people were not very happy to see this type of question pop up on Stack Overflow.  If the post was worded differently, the user might have gotten well-constructed answers instead of hate.
+As expected, many people were not very happy to see this type of question pop up on Stack Overflow.  If the post was worded differently, the user might have gotten well-constructed answers instead of frustration from the readers.
 
 ## How can we ask good questions? ##
 
