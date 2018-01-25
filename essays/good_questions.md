@@ -17,17 +17,28 @@ So what constitutes a dumb question?  If you were the responder, what would make
 ### Here is an example of a bad question from Stack Overflow: ###
 ![A bad question from Stack Overflow](/images/bad_question_SO.png)
 
+What makes this a bad question?  First of all, this is not a question, but rather a request for someone to do their work.  In addition to this, the user showed no effort in searching for the solution to their problem.
+
 ### And here are the responses to this post: ###
 ![Responses to the bad question](/images/bad_answer_SO.png)
 
-This question was not a question, but rather a request for someone to do their work.  As expected, many people were not very happy to see this type of question pop up on Stack Overflow. 
+As expected, many people were not very happy to see this type of question pop up on Stack Overflow.  If the post was worded differently, the user might have gotten well-constructed answers instead of hate.
 
 ## How can we ask good questions? ##
 
-We know a few traits that can make a question dumb, so how do we change that same question to make it a good one?  A good question will:
+We know a few traits that can make a question dumb, so how do we change that same question to make it a good one?  Remember those people in high school that would ask others for the answers to the homework?  You could categorize these people into two groups.  In the first group, we have the people who spent the last five minutes before class trying to do the homework.  In the other, the people who spent a few hours the previous night going through their notes and trying to figure out the answer.
+
+The first person might say something along the lines of:
+* "Hey, did you do the homework last night? Can I see your answers?"
+* "Can I copy your homework?"
+The second person will say:
+* "Hey, I was having troubles with problem #XX last night.  I spent a few hours but I didn't get anywhere, could you help me?"
+* "Could you explain how to do #XX?  I got up to here on the problem but then I got stuck."
+
+Personally, I'd be much more eager to help the second person because they seem more eager to understand the concepts and find a solution.  To come up with a good question, we should:
 * Be clear so the person responding knows what the issue is and how to help
 * Be polite, as we should show courtesy to those who are spending the time to consider an answer
-* Show that you've put some effort into finding a solution to your question
+* Show that we've put some effort into finding a solution to our question
 
 There are many other traits that can make a question good, but I believe these are some of the crucial details.
 
