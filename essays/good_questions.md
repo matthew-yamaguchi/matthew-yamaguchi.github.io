@@ -41,4 +41,8 @@ Notice how this question is clear and the problem is described well.  This perso
 
 This response was given within two minutes of the post being created. The questioner marked this as the best of the 16 answers on the page and this number doesn't include the comments to each answer.
 
-## How I can apply it to my life ##
+## How I can implement good questions into my career ##
+
+A famous phrase relevant here is, "Practice what you preach."  The question I must now ask myself is, "how will you use this knowledge of smart questions and dumb questions in the future?"  As a software engineer, I will be working with other people in teams.  When a problem arises and I need assistance, I must be able to communicate with my colleagues to clearly explain the problem.  By doing so, my teammates will be able to understand what I'm struggling with and assist me with solving the issue.  Asking good questions can save development time and prevent the same issue from occurring in the future.
+
+Learning how to ask smart questions can help us in the long term.  Although dumb questions do exist, there are ways to tweak them into smart questions.  By making your questions clear, you make it easier for others to figure out the best answers.  When asking questions, make sure to be courteous to those responding.  We are the one's with a problem to be solved, so we should be appreciative of the efforts others put into helping us.  Don't be afraid to ask smart questions.
