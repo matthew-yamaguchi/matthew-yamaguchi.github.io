@@ -36,7 +36,7 @@ We know a few traits that can make a question dumb, so how do we change that sam
 * "Hey, I was having troubles with problem #XX last night.  I spent a few hours but I didn't get anywhere, could you help me?"
 * "Could you explain how to do #XX?  I got up to here on the problem but then I got stuck."
 
-Personally, I'd be much more eager to help the second person because they seem more eager to understand the concepts and find a solution.  To come up with a good question, we should:
+Personally, I'd be much more willing to help the second person because they seem eager to understand the concepts and find a solution.  To come up with a good question, we should:
 * Be clear so the person responding knows what the issue is and how to help
 * Be polite, as we should show courtesy to those who are spending the time to consider an answer
 * Show that we've put some effort into finding a solution to our question
