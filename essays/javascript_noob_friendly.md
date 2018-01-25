@@ -4,8 +4,8 @@ type: essay
 title: (ICS 314) Javascript - Noob Friendly!
 date: 2018-1-18
 labels:
-  -Software Engineering
-  -Learning
+  - Software Engineering
+  - Learning
 ---
 
 ## My Javascript Experience ##
