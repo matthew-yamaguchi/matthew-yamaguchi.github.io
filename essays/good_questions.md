@@ -10,9 +10,9 @@ labels:
 
 ## What are dumb questions? ##
 
-We've all had a teacher or a professor who's said, "Don't be afraid to ask questions.  There are no dumb questions."  Everytime I hear this, I always think about the validity of this statement.  Recently, I asked one of my friends, "do dumb questions exist?"  He replied, "Yes, the question you just asked was a dumb question."  I suppose I set myself up there.
+We've all had a teacher or a professor who's said, "Don't be afraid to ask questions.  There are no dumb questions."  Every time I've heard this, I always thought about the validity of this statement.  Recently, I asked one of my friends, "do dumb questions exist?"  He replied, "Yes, the question you just asked was a dumb question."  I suppose I set myself up there.
 
-So what constitutes a dumb question?  If you were the responder, what would make you think, "I can't believe they asked me that?"  One thing that comes to mind is a question with an obvious answer.  If you are able to find the answer to your problem within a manual or on the first page of a Google search, then it might be a bad question to ask.  Another trait of a poor question is vagueness.  When you ask a question, it's usually in the hopes of receiving a response.  If your question makes it difficult for the respondent to understand what you wish to know, then it might be a bad question.
+So what constitutes a dumb question?  If someone asked you a question right now, what would make you think, "I can't believe they asked me that?"  One thing that comes to mind is a question with an obvious answer.  If you are able to find the answer to your problem within a manual or on the first page of a Google search, then it might be a bad question to ask.  Another trait of a poor question is vagueness.  When you ask a question, it's usually in the hopes of receiving a response.  If your question makes it difficult for the respondent to understand what you wish to know, then it might be a bad question.
 
 ### Here is an example of a bad question from Stack Overflow: ###
 ![A bad question from Stack Overflow](/images/bad_question_SO.png)
@@ -22,7 +22,7 @@ What makes this a bad question?  First of all, this is not a question, but rathe
 ### And here are the responses to this post: ###
 ![Responses to the bad question](/images/bad_answer_SO.png)
 
-As expected, many people were not very happy to see this type of question pop up on Stack Overflow.  If the post was worded differently, the user might have gotten well-constructed answers instead of frustration from the readers.
+As expected, many people were not very happy to see this type of question pop up on Stack Overflow.  If the post was worded differently, the user might have gotten well-constructed answers instead of criticism from their readers.
 
 ## How can we ask good questions? ##
 
