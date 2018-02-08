@@ -20,7 +20,7 @@ However, I will admit that it has saved me from critical errors in my code.  On 
 
 In the past, there have been times where I used an IDE without coding standards.  I remember spending hours looking through code just to find out that errors in my code were due to issues that could have been caught if I had coding standards implemented.  Some of the problems I had included misplaced brackets and misspelled variables.  Doesn't that sound familiar?
 
-## The Verdict ##
+### The Verdict ###
 New coding standards can be tedious to follow, especially for programmers that have been writing code for years.  At times you may even wonder, "why bother?"  
 
 The importance of coding standards is highlighted when working in teams.  Having a consistent style throughout the code can make debugging problems easier.  Consistency also makes it easier for the team to understand what a block of code means.  Conversely, writing in many different styles may cause a programmer to be confused when they see a function being called in a different ways.  
