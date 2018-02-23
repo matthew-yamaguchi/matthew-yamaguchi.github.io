@@ -9,8 +9,6 @@ labels:
   - Experience
 ---
 
-# Frameworks - The Deal Breaker #
-
 ## First Impressions ##
 Imagine you have an upcoming interview for a job you applied for.  One of the first things you may think of is, "what do I wear?"  Generally, you'll pick out a business or business-casual outfit because you want to impress the interviewer.  Everyone knows that first impressions matter.
 
