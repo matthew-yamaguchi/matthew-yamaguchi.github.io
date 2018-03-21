@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -8,6 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
+
 Authors: Tyler Kikuyama, Kenneth Yamaguchi Townsend, Matthew Yamaguchi
 #Idea: Book Craigslist for UHM
 ## Overview ##
