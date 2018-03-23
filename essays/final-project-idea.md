@@ -11,10 +11,10 @@ labels:
 Authors: Tyler Kikuyama, Kenneth Yamaguchi Townsend, Matthew Yamaguchi
 # Idea: Book Craigslist for UHM #
 ## Overview ##
-###The Problem###
+### The Problem ###
 UHM students spend a lot of money on textbooks every semester.  Selling textbooks back to the bookstores refunds the students a small fraction of the original price of the book.
 
-###The Solution###
+### The Solution ###
 To help students save money, they can sell their books to other students who need those textbooks in the coming semesters.
 
 ## Mockup page ideas ##
