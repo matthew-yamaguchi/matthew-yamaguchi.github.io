@@ -12,7 +12,7 @@ labels:
   - Web application
 summary: A marketplace application developed in my ICS 314 class at UHM.
 ---
-<div class="ui small rounded images">
+<div class="ui huge rounded images">
   <img class="ui image" src="../images/LogInPageMockUp.png">
 </div>
 
@@ -23,7 +23,7 @@ We developed this application in Spring of 2018.  We were given a month to devel
 
 At the end of every semester, I always end up with textbooks and supplies that I no longer need and they end up collecting dust on my bookshelf.  I could sell it back to the bookstore, but the return rates are terrible.  Many college students are running on a tight budget, so we thought that it would be a great idea to develop an application where students and faculty would be able to sell supplies, essentially an online marketplace dedicated for UHM.
 
-<div class="ui medium rounded images">
+<div class="ui huge rounded images">
   <img class="ui image" src="../images/ListItem.png">
 </div>
 
