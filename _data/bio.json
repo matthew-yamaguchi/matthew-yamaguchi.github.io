@@ -51,7 +51,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Javascript"
       ]
     },
     {
@@ -59,7 +60,8 @@
       "level": "",
       "keywords": [
         "Windows 10",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Meteor"
       ]
     }
   ],
